@@ -31,3 +31,9 @@ Archived.args = {
     state: "TASK_ARCHIVED",
   },
 };
+export const LongText = Template.bind({})
+LongText.args = {
+  task: {
+    title:'lorem fdfkd fsdjf fsdfj sdkfjfd kf f fjdkffj dfdkdsjflkdjfkdlorem fdfkd fsdjf fsdfj sdkfjfd kf f fjdkffj dfdkdsjflkdjfkdlorem fdfkd fsdjf fsdfj sdkfjfd kf f fjdkffj dfdkdsjflkdjfkdlorem fdfkd fsdjf fsdfj sdkfjfd kf f fjdkffj dfdkdsjflkdjfkdlorem fdfkd fsdjf fsdfj sdkfjfd kf f fjdkffj dfdkdsjflkdjfkdlorem fdfkd fsdjf fsdfj sdkfjfd kf f fjdkffj dfdkdsjflkdjfkd'
+  },
+};
