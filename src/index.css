@@ -304,7 +304,7 @@ textarea {
   background: transparent;
   border: none;
   text-align: center;
-  transition: all 200ms ease-in;
+  transition: all 100ms ease-in;
   color: #eee;
   font-size: 16px;
   line-height: 3rem;
@@ -312,7 +312,9 @@ textarea {
 }
 
 .pin-button:hover {
-  color: #2cc5d2;
+  /* color: #2cc5d2; */
+  /* border-bottom: 2px solid rgb(105, 105, 105); */
+  color:#1c3f5323;
 }
 .pin-button:focus {
   outline-color: transparent;
