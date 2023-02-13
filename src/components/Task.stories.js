@@ -12,7 +12,7 @@ export const Default = Template.bind({})
 Default.args = {
     task: {
         id: 1,
-        title: 'test task',
+        title: 'task story',
         state: 'TASK_INBOX'
     }
 
